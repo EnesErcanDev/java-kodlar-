@@ -24,7 +24,7 @@ public class CookieClicker extends JFrame {
 
 
     public CookieClicker() {
-        super("🍪 Kurabiye Tıklatıcı");
+        super("🍪 Kurabiye Tıklayıcı");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(600, 500);
         setLayout(new BorderLayout());
